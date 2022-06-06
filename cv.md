@@ -22,7 +22,6 @@ _Hello. My name is Artem. I want to learn a new profession. Go easy on me. I'm j
 ---
 
 ### Code Example:
-
 ...
 function multiply(a, b){
   return a * b; 
