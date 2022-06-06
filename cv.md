@@ -1,12 +1,11 @@
 # **Varhatiuk Artem**
 ---
 
-***
-
 ### Contacts:
-+ Discord:artemvarhatiuk#1974
++ Discord: artemvarhatiuk#1974
 + E-mail: lubomir200670@gmail.com
 + Tel: +380981349534
+
 ---
 
 ### About me:
@@ -28,15 +27,15 @@ function multiply(a, b){
 ...
 ---
 
-Experience:
+### Experience:
 I don't have experience yet.
 ---
 
-Education:
+### Education:
 National mining university, Mining engineer.
 ---
 
-English:
+### English:
 Elementary (A1).
 ---
 
