@@ -10,7 +10,8 @@
 
 ### About me:
 
-_Hello. My name is Artem. I want to learn a new profession. Go easy on me. I'm just a newbie._
+_Hello. My name is Artem. I want to learn a new profession.My goal is to become a front-end developer. I am 
+plodding. Go easy on me. I'm just a newbie._
 
 ---
 
